@@ -131,3 +131,44 @@ Effective collaboration is crucial to the success of this full-stack application
 ---
 
 Each role plays a vital part in the project’s lifecycle—from ideation and design, to development, testing, and deployment—ensuring that the application is functional, scalable, and user-friendly.
+
+## 🧱 UI Component Patterns
+
+To maintain a clean, modular, and scalable frontend architecture, the project will be built using reusable UI components. Below are the planned components and their key elements:
+
+---
+
+### 🔝 Navbar
+
+A responsive top navigation bar that includes:
+
+- **Logo**: Linked to the home page
+- **Search bar**: For quick property lookup
+- **User navigation**: Includes login/logout, profile, and booking history
+- **Responsive menu**: Collapses into a mobile-friendly hamburger menu
+
+---
+
+### 🏘️ Property Card
+
+A reusable card component to display property listings:
+
+- **Property image**: Featured image of the listing
+- **Basic details**: Price, location, and rating
+- **Favorite button**: For adding/removing saved properties
+- **Responsive layout**: Optimized for various screen sizes
+
+---
+
+### 👣 Footer
+
+A global footer section appearing across all pages:
+
+- **Site links**: Navigation to important pages (e.g., About, FAQ, Contact)
+- **Company information**: Legal and contact details
+- **Social media links**: Icons linking to social platforms
+- **Copyright information**: Year and brand
+
+---
+
+Each component will be designed with **reusability**, **accessibility**, and **styling consistency** in mind to ensure a cohesive user experience throughout the application.
