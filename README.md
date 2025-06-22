@@ -113,3 +113,21 @@ By identifying these design properties early, teams ensure a smooth transition f
 
 ---
 
+## 👥 Project Roles and Responsibilities
+
+Effective collaboration is crucial to the success of this full-stack application. Below are the defined roles within the team and their key responsibilities:
+
+| **Role**              | **Responsibilities**                                                                 |
+|-----------------------|--------------------------------------------------------------------------------------|
+| **Project Manager**   | Oversees project timeline, coordinates team activities, and ensures deliverables are met on schedule. |
+| **Frontend Developers** | Build and maintain user interface components, ensure responsive design, and integrate with backend APIs. |
+| **Backend Developers** | Design and implement server-side logic, manage databases, and develop RESTful APIs. |
+| **Designers**         | Create mockups, define and maintain the design system, and ensure UI/UX consistency and quality. |
+| **QA/Testers**        | Write and execute test cases, identify bugs, and ensure application reliability and performance. |
+| **DevOps Engineers**  | Set up deployment pipelines, manage CI/CD processes, and maintain server infrastructure. |
+| **Product Owner**     | Define product vision, prioritize features, manage the backlog, and represent stakeholders' interests. |
+| **Scrum Master**      | Facilitate Agile ceremonies (standups, sprint planning, retrospectives), remove blockers, and promote team efficiency. |
+
+---
+
+Each role plays a vital part in the project’s lifecycle—from ideation and design, to development, testing, and deployment—ensuring that the application is functional, scalable, and user-friendly.
